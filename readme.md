@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=D9A521&center=true&vCenter=true&width=550&lines=Software+Engineer;Full+Stack+Developer%3A+Java+%26+Spring+Boot+%2B+MERN;Building+Production-Grade+Backend+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=D9A521&center=true&vCenter=true&width=550&lines=Software+Engineer;Full+Stack+Developer%3A+Java+%26+Spring+Boot+%2B+MERN" />
 </div>
 
 <div align="center">
